@@ -1,4 +1,4 @@
-#IRC-Bot
+ # IRC-Bot <br>
 Requires Cinch to run <br>
 Right now having commands like, Autovoice, Coinflip, RollDice etc. <br>
 Bot Nick, Server, Port, Channel can be changed. <br>
